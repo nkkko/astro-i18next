@@ -2,6 +2,8 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/yassinedoghri/astro-i18next/tree/beta/examples/react)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/yassinedoghri/astro-i18next)
+
 - [🛠️ How to setup?](#️-how-to-setup)
   - [1. Install](#1-install)
   - [2. Configure](#2-configure)
